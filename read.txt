@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 hhhhhhhhhhhhhhhhhhhhhhhh tuto branche maha
+=======
+<<<<<<< HEAD
+kkkkkkkkkkkkkkkkkkkkk
+=======
+hhhhhhhhhhhhhhhhhhhhhhhh tuto
+>>>>>>> master
+>>>>>>> master
